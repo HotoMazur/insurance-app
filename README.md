@@ -86,6 +86,7 @@ Map port 8081 on your host to port 8080 in the container to avoid port conflicts
 
 Access the application on http://localhost:8081
 
+
 #### Production mode profile - the application uses a PostgreSQL database.
 Run the following commands:
 1. "gradle build" in Git bash
